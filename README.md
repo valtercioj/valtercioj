@@ -6,7 +6,6 @@
   <ul>
     <li>🎓 &nbsp; Studying Analyst systems at IFRN.</li>
     <li>📘 &nbsp; I am currently learning Django with python for Backend</li>
-    <li>❤️ &nbsp; GYM | Anime | Lofi</li>
   </ul>
 </p>
 
@@ -19,8 +18,8 @@
 </p>
 #### Connect with me:
 
-[<img align="center" alt="artursantiago | Instagram" src="https://img.shields.io/badge/Instagram-valtercio_j-blue?style=flat-square&logo=instagram" />][instagram]
-[<img align="center" alt="artursantiago | Email" src="https://img.shields.io/badge/Email-juniorvaltercio2015@gmal.com-blue?style=flat-square&logo=gmail" />][email]
+[<img align="center" alt="valterciojunior | Instagram" src="https://img.shields.io/badge/Instagram-valtercio_j-blue?style=flat-square&logo=instagram" />][instagram]
+[<img align="center" alt="valterciojunior | Email" src="https://img.shields.io/badge/Email-juniorvaltercio2015@gmal.com-blue?style=flat-square&logo=gmail" />][email]
 
 
 [instagram]: https://www.instagram.com/valtercio_j/
