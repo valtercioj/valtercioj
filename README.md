@@ -19,7 +19,7 @@
 
 #### Connect with me:
 
-[<img align="center" alt="valterciojunior | Instagram" src="https://img.shields.io/badge/Instagram-valtercio_j-blue?style=flat-square&logo=instagram" />][instagram]
+[<img align="center" alt="valterciojunior | Instagram" src="https://img.shields.io/badge/Instagram-valtercio_s-blue?style=flat-square&logo=instagram" />][instagram]
 [<img align="center" alt="valterciojunior | Email" src="https://img.shields.io/badge/Email-juniorvaltercio2015@gmal.com-blue?style=flat-square&logo=gmail" />][email]
 
 <br />
@@ -30,5 +30,5 @@
   </p>
 </a>
 
-[instagram]: https://www.instagram.com/valtercio_j/
+[instagram]: https://www.instagram.com/valtercio_s/
 [email]: mailto:juniorvaltercio2015@gmail.com
