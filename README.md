@@ -18,8 +18,8 @@
 </p>
 
 #### Connect with me:
-
 [<img align="center" alt="valterciojunior | Instagram" src="https://img.shields.io/badge/Instagram-valtercio_s-blue?style=flat-square&logo=instagram" />][instagram]
+[<img align="center" alt="valterciojunior | LinkedIn" src="https://img.shields.io/badge/LinkedIn-Valtercio%20Junior%20-blue?style=flat-square&logo=linkedin" />][linkedin]
 [<img align="center" alt="valterciojunior | Email" src="https://img.shields.io/badge/Email-juniorvaltercio2015@gmal.com-blue?style=flat-square&logo=gmail" />][email]
 
 <br />
@@ -31,4 +31,5 @@
 </a>
 
 [instagram]: https://www.instagram.com/valtercio_s/
+[linkedin]: https://www.linkedin.com/in/valtercio-santiago-9594b51b4/
 [email]: mailto:juniorvaltercio2015@gmail.com
