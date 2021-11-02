@@ -5,12 +5,12 @@
 <p align="left"> 
   <ul>
     <li>🎓 &nbsp; Studying Analyst systems at IFRN.</li>
-    <li>📘 &nbsp; I am currently learning Node with javascript for Backend</li>
+    <li>📘 &nbsp; I am currently learning HTML, CSS and javascript for front-end</li>
   </ul>
 </p>
 
 <p align="left">
-  🦄 Skills: <strong>Javascript, HTML, CSS, Python, Node, Web Scraping</strong>
+  🦄 Skills: <strong>Javascript, HTML, CSS, Python, Node, JavaScript, Web Scraping</strong>
 </p>
 
 <p align="left">
