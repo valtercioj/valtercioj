@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  🦄 Skills: <strong>Javascript, HTML, CSS, Python, Node, JavaScript, Web Scraping</strong>
+  🦄 Skills: <strong>HTML, CSS, Javascript, Python, Node, React js</strong>
 </p>
 
 <p align="left">
@@ -33,4 +33,4 @@
 
 [instagram]: https://www.instagram.com/valtercio_s/
 [linkedin]: https://www.linkedin.com/in/valtercio-santiago-9594b51b4/
-[email]: mailto:juniorvaltercio2015@gmail.com
+[email]: mailto:juniorvaltercio2012@gmail.com
