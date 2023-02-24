@@ -5,7 +5,7 @@
 <p align="left"> 
   <ul>
     <li>🎓 &nbsp; Studying Analyst systems at IFRN.</li>
-    <li>💻 &nbsp; Frontend Developer at Squadra Digital.</li>
+    <li>💻 &nbsp; Frontend Developer.</li>
     <li>📘 &nbsp; Learning more about React And Typescript.</li>
   </ul>
 </p>
