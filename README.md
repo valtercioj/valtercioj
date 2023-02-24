@@ -5,16 +5,17 @@
 <p align="left"> 
   <ul>
     <li>🎓 &nbsp; Studying Analyst systems at IFRN.</li>
-    <li>📘 &nbsp; I am currently learning HTML, CSS and javascript for front-end</li>
+    <li>💻 &nbsp; Frontend Developer at Squadra Digital.</li>
+    <li>📘 &nbsp; Learning more about React And Typescript.</li>
   </ul>
 </p>
 
 <p align="left">
-  🦄 Skills: <strong>HTML, CSS, Javascript, Python, Node, React js</strong>
+  🦄 Skills: <strong>Javascript, HTML, CSS, Tailwind, ReactJS, Django,Django Rest Framework, SQL and Learning Next.JS and Typescript</strong>
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Visual Studio Code, Figma(Basics), Git and GitHub</strong>
+  💼 Tools: <strong>Visual Studio Code, Figma, Git and GitHub</strong>
 </p>
 
 #### Connect with me:
